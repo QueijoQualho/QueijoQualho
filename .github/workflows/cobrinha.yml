@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Snake game
 
 on:
   schedule: # executar a cada 12 horas
