@@ -9,6 +9,8 @@
   
 ---
 
+<br>
+
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoQualho&layout=compact&theme=dracula&hide_border=true">
 
 &nbsp;
