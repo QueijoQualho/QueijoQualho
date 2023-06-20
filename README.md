@@ -1,16 +1,20 @@
+&nbsp;
 
+<img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api?username=QueijoQualho&show_icons=true&theme=dracula&hide_border=true">
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    ## Título
-    
-    - Item 1
-    - Item 2
-    - Item 3
-  </div>
+ ## Pedro Jesus
+  - Estudante médio do SENAI
+  - Estudando JAVA e outras linguagens
+  - Interesses em desenvolvimento Front e Back-end.
   
-  <div style="flex: 1;">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=QueijoQualho&show_icons=true&theme=dracula&hide_border=true">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoQualho&layout=compact&theme=dracula&hide_border=true">
-  </div>
+---
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoQualho&layout=compact&theme=dracula&hide_border=true">
+
+&nbsp;
+
+<div align="right">
+   <h2>Redes sociais e contatos<h2>
+   <img height="50em" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png">
+    <img height="50em" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png">
 </div>
