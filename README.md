@@ -3,9 +3,9 @@
 <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api?username=QueijoQualho&show_icons=true&theme=dracula&hide_border=true">
 
  ## Pedro Jesus
-  - Estudante médio do SENAI
+  - Estudante médio da FIAP
   - Estudando JAVA e outras linguagens
-  - Interesses em desenvolvimento Front e Back-end.
+  - Interesse em desenvolvimento Back-end.
   
 ---
 
