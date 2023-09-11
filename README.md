@@ -1,11 +1,11 @@
-
+<div>
 ## &nbsp;Sobre mim
 
 - 🎓 &nbsp; **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 - 🎓 &nbsp; **DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.sp.senai.br/">SENAI</a>.
 - 🌱 &nbsp; Estudando **Node.js/Spring/JS/Python**.
 
-<img align="right" height="280em" src="https://cdn141.picsart.com/351903186045211.png">
+<img align="right" height="250em" src="https://cdn141.picsart.com/351903186045211.png">
 
 ### BACK-END
 
@@ -26,6 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4D627F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-4D627F?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
 
+</div>
 <br/>
 
 <div>
