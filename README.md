@@ -1,6 +1,6 @@
 <div>
 
-<img align="right" height="300em" src="https://cdn141.picsart.com/351903186045211.png">
+<img align="right" height="500em" src="https://cdn141.picsart.com/351903186045211.png">
   
 ## &nbsp;Sobre mim
 
