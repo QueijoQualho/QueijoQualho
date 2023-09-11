@@ -30,8 +30,8 @@
 <br/>
 
 <div>
-<img align="left"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=QueijoQualho&show_icons=true&theme=dracula&hide_border=true">
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoQualho&layout=compact&theme=dracula&hide_border=true">
+<img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=QueijoQualho&show_icons=true&theme=dracula&hide_border=true">
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoQualho&layout=compact&theme=dracula&hide_border=true">
 </div>
 
 <br/>
