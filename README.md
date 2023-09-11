@@ -1,11 +1,12 @@
 <div>
+
+<img align="right" height="300em" src="https://cdn141.picsart.com/351903186045211.png">
+  
 ## &nbsp;Sobre mim
 
 - 🎓 &nbsp; **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 - 🎓 &nbsp; **DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.sp.senai.br/">SENAI</a>.
 - 🌱 &nbsp; Estudando **Node.js/Spring/JS/Python**.
-
-<img align="right" height="300em" src="https://cdn141.picsart.com/351903186045211.png">
 
 ### BACK-END
 
