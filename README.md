@@ -28,11 +28,11 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-021632?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
 
 </div>
-<br/>
+
 
 <div>
 <img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=QueijoQualho&show_icons=true&theme=radical">
 <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoQualho&layout=compact&theme=radical">
 </div>
 
-<br/>
+
