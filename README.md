@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 - 🎓 &nbsp; Cursando **DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senai.br/">SENAI</a>.
-- 🌱 &nbsp; Estudando **Node.js/Spring/JS/Python**.
+- 🌱 &nbsp; Estudando **Node.js/Typescript/Spring/Python/F**.
 
 ### BACK-END
 
@@ -22,13 +22,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-001F39?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-001F39?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
-### Ferramentas de Desenvolvimento
+### MOBILE
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-021632?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-021632?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
+![Flutter](https://img.shields.io/badge/-flutter-021632?style=for-the-badge&logo=flutter&logoColor=007ACC)
+
 
 </div>
-
 
 <div>
 <img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=QueijoQualho&show_icons=true&theme=radical">
