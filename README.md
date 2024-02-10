@@ -4,9 +4,9 @@
   
 ## &nbsp;Sobre mim
 
-- 🎓 &nbsp; Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 🎓 &nbsp; Cursando **DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senai.br/">SENAI</a>.
-- 🌱 &nbsp; Estudando **Node.js/Typescript/Spring/Python/F**.
+- 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
+- 🎓 Cursando **DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senai.br/">SENAI</a>.
+- 🌱 Estudando **Node.js/Typescript/Spring/Python/Flutter**.
 
 ### BACK-END
 
