@@ -6,7 +6,7 @@
 
 - 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 - 🎓 Cursando **DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senai.br/">SENAI</a>.
-- 🌱 Estudando **Typescript/Spring/Python/Flutter/React/Next.js**.
+- 🌱 Estudando **Typescript/Spring/Python/Flutter/React/Next.js/NestJS**.
 
 ### BACK-END
 
@@ -14,6 +14,7 @@
 ![Nodejs](https://img.shields.io/badge/-nodejs-002B4D?style=for-the-badge&logo=nodedotjs)
 ![Springboot](https://img.shields.io/badge/-springboot-002B4D?style=for-the-badge&logo=springboot)
 ![Python](https://img.shields.io/badge/-python-002B4D?style=for-the-badge&logo=python)
+![NestJS](https://img.shields.io/badge/-nestjs-002B4D?style=for-the-badge&logo=nestjs)
 ![Mysql](https://img.shields.io/badge/-mysql-002B4D?style=for-the-badge&logo=mysql)
 ![OracleDB](https://img.shields.io/badge/-oracleDB-002B4D?style=for-the-badge&logo=oracle)
 
