@@ -6,7 +6,7 @@
 
 - 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 - 🎓 Cursando **DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senai.br/">SENAI</a>.
-- 🌱 Estudando **Typescript/Spring/Python/Flutter/React/Next.js/NestJS**.
+- 🌱 Estudando **SpringBoot/Python/Flutter/React/Next.js/NestJS**.
 
 ### BACK-END
 
