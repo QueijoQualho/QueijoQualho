@@ -40,7 +40,7 @@
 
 <div>
 <img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=QueijoQualho&show_icons=true&theme=radical">
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoQualho&layout=compact&theme=radical">
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoQualho&layout=compact&theme=radical&hide=Jupyter%20Notebook">
 </div>
 
 
