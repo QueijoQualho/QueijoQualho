@@ -20,6 +20,7 @@
 ![Mysql](https://img.shields.io/badge/-mysql-002B4D?style=for-the-badge&logo=mysql)
 ![OracleDB](https://img.shields.io/badge/-oracleDB-002B4D?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-postgres-002B4D?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-mongoDB-002B4D?style=for-the-badge&logo=mongodb)
 
 ### FRONT-END
 
