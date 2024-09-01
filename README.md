@@ -6,7 +6,7 @@
 
 - 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 - 🎓 Cursando **DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senai.br/">SENAI</a>.
-- 🌱 Estudando **SpringBoot/Flutter/Golang**.
+- 🌱 Estudando **SpringBoot/Flutter/Kotlin/Golang**.
 
 ### BACK-END
 
@@ -18,10 +18,13 @@
 ![Python](https://img.shields.io/badge/-python-002B4D?style=for-the-badge&logo=python)
 ![jupyter](https://img.shields.io/badge/-jupyter-002B4D?style=for-the-badge&logo=jupyter)
 ![Go](https://img.shields.io/badge/-Golang-002B4D?style=for-the-badge&logo=Go)
-![Mysql](https://img.shields.io/badge/-mysql-002B4D?style=for-the-badge&logo=mysql)
-![OracleDB](https://img.shields.io/badge/-oracleDB-002B4D?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-postgres-002B4D?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-mongoDB-002B4D?style=for-the-badge&logo=mongodb)
+
+### DATABASE
+
+![Mysql](https://img.shields.io/badge/-mysql-002545?style=for-the-badge&logo=mysql)
+![OracleDB](https://img.shields.io/badge/-oracleDB-002545?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-postgres-002545?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-mongoDB-002545?style=for-the-badge&logo=mongodb)
 
 ### FRONT-END
 
@@ -36,6 +39,7 @@
 ### MOBILE
 
 ![Flutter](https://img.shields.io/badge/-flutter-021632?style=for-the-badge&logo=flutter&logoColor=007ACC)
+![Kotlin](https://img.shields.io/badge/-kotlin-021632?style=for-the-badge&logo=kotlin)
 
 
 </div>
