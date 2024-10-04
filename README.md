@@ -6,7 +6,7 @@
 
 - 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 - 🎓 Cursando **DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senai.br/">SENAI</a>.
-- 🌱 Estudando **SpringBoot/Flutter/Kotlin/Golang**.
+- 🌱 Estudando **SpringBoot/.NET/Flutter/Kotlin**.
 
 ### BACK-END
 
@@ -17,7 +17,8 @@
 ![NestJS](https://img.shields.io/badge/-nestjs-002B4D?style=for-the-badge&logo=nestjs&logoColor=E60050)
 ![Python](https://img.shields.io/badge/-python-002B4D?style=for-the-badge&logo=python)
 ![jupyter](https://img.shields.io/badge/-jupyter-002B4D?style=for-the-badge&logo=jupyter)
-![Go](https://img.shields.io/badge/-Golang-002B4D?style=for-the-badge&logo=Go)
+![C#](https://img.shields.io/badge/C%23-002B4D?logo=c-sharp&style=for-the-badge)
+![.NET](https://img.shields.io/badge/-DotNet-002B4D?style=for-the-badge&logo=.net)
 
 ### DATABASE
 
