@@ -5,7 +5,6 @@
 ## &nbsp;Sobre mim
 
 - 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 🎓 Cursando **DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senai.br/">SENAI</a>.
 - 🌱 Estudando **SpringBoot/.NET/Flutter/Kotlin**.
 
 ### BACK-END
@@ -41,7 +40,6 @@
 
 ![Flutter](https://img.shields.io/badge/-flutter-021632?style=for-the-badge&logo=flutter&logoColor=007ACC)
 ![Kotlin](https://img.shields.io/badge/-kotlin-021632?style=for-the-badge&logo=kotlin)
-
 
 </div>
 
