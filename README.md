@@ -5,7 +5,7 @@
 ## &nbsp;Sobre mim
 
 - 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 🌱 Estudando **SpringBoot/.NET/Kotlin**.
+- 🌱 Estudando **SpringBoot/.NET/React-native**.
 
 ### BACK-END
 
@@ -40,6 +40,7 @@
 
 ![Flutter](https://img.shields.io/badge/-flutter-021632?style=for-the-badge&logo=flutter&logoColor=007ACC)
 ![Kotlin](https://img.shields.io/badge/-kotlin-021632?style=for-the-badge&logo=kotlin)
+![React Native](https://img.shields.io/badge/React_Native-021632?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
